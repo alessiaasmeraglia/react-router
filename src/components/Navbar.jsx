@@ -2,10 +2,10 @@ import { NavLink } from "react-router";
 
 function Navbar() {
     return (
-        <nav>
-            <NavLink to="/">Home</NavLink> |{" "}
-            <NavLink to="/about">Chi siamo</NavLink> |{" "}
-            <NavLink to="/products">Prodotti</NavLink>
+        <nav className="navbar">
+            <NavLink to="/" className="link">Home</NavLink> |{" "}
+            <NavLink to="/about" className="link">Chi siamo</NavLink> |{" "}
+            <NavLink to="/products" className="link">Prodotti</NavLink>
         </nav>
     )
 }
