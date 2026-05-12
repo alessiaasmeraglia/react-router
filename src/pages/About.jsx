@@ -34,7 +34,7 @@ function About() {
                 </div>
 
                 <div className="about-story-image">
-                    <img src="/img/about-story.jpg" alt="Artigianalità LUXE" />
+                    <img src="/img/about-story.png" alt="Artigianalità LUXE" />
                 </div>
             </section>
 
