@@ -1,6 +1,8 @@
 function Home() {
     return (
-        <h1>Benvenuto nel nostro Store</h1>
+        <div className="page">
+            <h1>Benvenuto nel nostro Store</h1>    
+        </div>
         
     )
 }
