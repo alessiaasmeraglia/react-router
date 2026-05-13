@@ -42,8 +42,8 @@ function Home() {
                                 </p>
 
                                 <div className="mini-products">
-                                    <img src="/img/watch.jpg" alt="Orologio" />
-                                    <img src="/img/headphones.jpg" alt="Cuffie" />
+                                    <img src="/img/watch.png" alt="Orologio" />
+                                    <img src="/img/headphones.png" alt="Cuffie" />
                                 </div>
                             </div>
                         </div>
